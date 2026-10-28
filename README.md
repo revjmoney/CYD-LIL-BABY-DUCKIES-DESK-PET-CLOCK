@@ -34,9 +34,9 @@ Duck Pet is open-source firmware for the **ESP32-2432S028R**, the 2.8" "Cheap Ye
 
 ## Get one
 
-[![Duck Pet on a 2.8" CYD in its case, with stylus and USB cable](docs/media/duckpet-cyd.jpg)](https://jmscnc.com)
+[![Duck Pet on a 2.8" CYD in its case, with stylus and USB cable](docs/media/duckpet-cyd.jpg)](https://jmscnc.com/product/duck-pet-toy-ducklings-on-a-2-8-touchscreen-pond-ready-to-plug-in/)
 
-- **Ready to plug in:** a 2.8" CYD in an acrylic case with Duck Pet already on it, plus a stylus and a USB cable, from **[jmscnc.com](https://jmscnc.com)**. Plug it into any USB charger.
+- **Ready to plug in:** a 2.8" CYD in an acrylic case with Duck Pet already on it, plus a stylus and a USB cable, from **[jmscnc.com](https://jmscnc.com/product/duck-pet-toy-ducklings-on-a-2-8-touchscreen-pond-ready-to-plug-in/)**. Plug it into any USB charger.
 - **Flash your own:** any ESP32-2432S028R works, with an ILI9341 or ST7789 panel; the firmware detects which. With [PlatformIO](https://platformio.org/):
 
 ```bash
